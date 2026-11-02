@@ -1,0 +1,6 @@
+{
+  "name": "AutoCareer - 자동차 제조 이공계 채용 포털",
+  "description": "자동차 제조 및 1차 협력사 이공계(생산기술·품질·전장·설계) 신입 채용공고 탐색, 일정 달력, 직무분석 및 자소서 항목 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
